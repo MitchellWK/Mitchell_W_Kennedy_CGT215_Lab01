@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mitchell_W_Kennedy_CGT215_Lab01/1.0.0": {
+        "runtime": {
+          "Mitchell_W_Kennedy_CGT215_Lab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mitchell_W_Kennedy_CGT215_Lab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

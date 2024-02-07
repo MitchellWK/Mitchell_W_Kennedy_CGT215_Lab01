@@ -1,0 +1,14 @@
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\bin\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.exe
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\bin\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.deps.json
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\bin\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.runtimeconfig.json
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\bin\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.dll
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\bin\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.pdb
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.AssemblyInfoInputs.cache
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.AssemblyInfo.cs
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.dll
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\refint\Mitchell_W_Kennedy_CGT215_Lab01.dll
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.pdb
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\Mitchell_W_Kennedy_CGT215_Lab01.genruntimeconfig.cache
+C:\Users\Forty\OneDrive\Pictures\Purdue\Spring 2024\CGT 215\Mitchell_W_Kennedy_CGT215_Lab01\Mitchell_W_Kennedy_CGT215_Lab01\obj\Debug\net8.0\ref\Mitchell_W_Kennedy_CGT215_Lab01.dll
